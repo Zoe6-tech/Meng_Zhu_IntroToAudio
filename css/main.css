@@ -1,0 +1,22 @@
+div{
+  display: inline-block;
+  margin: 10px;
+}
+
+button{
+  /*display: block;*/
+  font-size: 18px;padding: 10px;
+  cursor: pointer;
+  color: blue;
+  background-color: yellow;
+}
+
+img{
+  width: 250px;
+  height: 250px;
+}
+
+.controllers{
+  display: block;
+  margin-top: 8px;
+}
